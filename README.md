@@ -1,4 +1,4 @@
-# Project 12 - SASS Landing Page
+# Project 12 - Business Landing Page
 ##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
