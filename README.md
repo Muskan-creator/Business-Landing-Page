@@ -2,7 +2,7 @@
 ##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-> ### **Live deployed website link** :-[Netlify link](https://62dffd286e06d0098477df3b--product-landing-pagedesign.netlify.app/)
+> ### **Live deployed website link** :-[Netlify link](https://sass-webpage.netlify.app/)
 <br>
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,12 +17,13 @@
 
 ## What I have learned in this project?
 
-  - I have learned about background image positioning
-  - I have learned about positioning of discount content
-  - I have learned about z-index
-  - Learnt transitioning properties and animation
+  - I have learned about how to make different sections on homepage.
+  - In this project, I have experimented with all the flexbox properties.
+  - I have used variables in css i.e SCSS
+  - I have learned about advance css properties.
+  - Due to this project , I am confident enough to make any web page
 
-## This project took around 2 hours to complete .
+## This project took around 8 hours to complete .
 
 ## Connect with me on :-
 <a href="https://twitter.com/Muskan11548907?s=08" target="_blank">
