@@ -13,7 +13,7 @@
 
 ##  How website looks like
 
-<img src="https://github.com/Muskan-creator/SASS-Landing-Page/blob/master/12.png" height="60%" width="50%">
+<img src=https://github.com/Muskan-creator/Business-Landing-Page/blob/master/12.png" height="60%" width="50%">
 
 ## What I have learned in this project?
 
